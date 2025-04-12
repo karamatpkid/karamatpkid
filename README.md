@@ -190,6 +190,6 @@ I’m always excited to tackle new challenges and collaborate on innovative mobi
 
 - **Email:** karamatpkid@gmail.com  
 - **GitHub:** https://github.com/karamatpkid  
-- **LinkedIn:** https://linkedin.com/in/karamat-subhani  
+- **LinkedIn:** https://www.linkedin.com/in/karamatsubhani/
 
 > **Ready to get started?** Let’s discuss your project requirements and craft a plan that brings your vision to life!  
