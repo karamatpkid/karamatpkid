@@ -111,7 +111,7 @@ I’m a **Senior Mobile App Developer** and **Flutter Expert** with over **8 yea
 
 ## 🌟 Portfolio Highlights
 
- **Slifix Multivendor Food App**  
+ - **Slifix Multivendor Food App**  
   A real‑time, multi‑vendor food delivery platform with live tracking, wallet integration, and multi‑language support.
 
 - **Loshay Ride‑Sharing App**  
