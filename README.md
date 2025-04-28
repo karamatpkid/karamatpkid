@@ -34,7 +34,7 @@ I’m a **Senior Mobile App Developer** and **Flutter Expert** with over **8 yea
 
 ---
 
-## 💡 Core Competencies & Keywords for SEO
+## 💡 Core Competencies
 
 - **Flutter Developer**  
 - **Cross‑Platform Mobile Development**  
