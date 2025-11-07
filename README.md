@@ -4,7 +4,7 @@ I’m a **Senior Mobile App Developer** and **Flutter Expert** with over **8 yea
 
 ---
 
-## 🚀 Why Choose Me as Your Flutter & Mobile App Developer?
+##  Why Choose Me as Your Flutter & Mobile App Developer?
 
 1. **Proven Expertise**  
    - 8+ years in **mobile app development** (iOS, Android, cross‑platform).  
