@@ -189,7 +189,7 @@ I’m a **Senior Mobile App Developer** and **Flutter Expert** with over **8 yea
 I’m always excited to tackle new challenges and collaborate on innovative mobile solutions. Whether you need an MVP prototype or a full‑scale product, I’m here to help you succeed.
 
 - **Email:** karamatpkid@gmail.com  
-- **GitHub:** https://github.com/karamatpkid  
-- **LinkedIn:** https://www.linkedin.com/in/karamatsubhani/
+- **GitHub:** https://github.com/devkaramat  
+- **LinkedIn:** https://www.linkedin.com/in/karamatdev/
 
 > **Ready to get started?** Let’s discuss your project requirements and craft a plan that brings your vision to life!  
